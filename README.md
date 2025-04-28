@@ -32,6 +32,44 @@ Make sure you have the following installed:
 ### Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/money_card_app.git
 
+   ```bash
+   git clone https://github.com/TemiladeRebecca/money_card.git
+   cd money_card
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+
+3. Run the app:
+
+   ```bash
+   flutter run
+   ```
+
+---
+
+## 📊 Project Structure
+
+```
+lib/
+├── main.dart
+├── data       
+├── screens/          # Screens (user details)
+├── widgets/               
+
+```
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 👨‍💻 Author
+
+- **Talabi Rebecca**  
+  [LinkedIn](https://linkedin.com/in/talabirebecca-virtualdev) | [GitHub](https://github.com/TemiladeRebecca)
