@@ -1,16 +1,37 @@
-# money_card
+# Money Card App
 
-A new Flutter project.
+## Overview
+The **Money Card App** is a Flutter-based mobile application that displays user details such as name and balance on cards. The app also provides a "Send Money" feature that prints to the console when clicked. This app is designed to demonstrate the basic concepts of Flutter development, including UI design, state management, and the use of widgets such as `AppBar`, `Card`, `ElevatedButton`, and more.
+
+## Features
+- **User Details**: Displays the name and balance of the user on a beautifully styled card.
+- **Send Money**: A button that prints a message to the console when clicked.
+- **Custom AppBar**: Includes a title and an icon, with customizable background color.
+- **Clean Layout**: The user information is displayed in a clean, responsive design using `ListView` for easy scrolling.
+
+## Screenshots
+![Money Card App Screenshot](assets/screenshots/image_1.jpg)
+
+## Technologies Used
+- **Flutter**: Used for building the cross-platform mobile app.
+- **Google Fonts**: Lato font style is used throughout the app to enhance the UI.
+- **Widgets**: Utilizes `AppBar`, `Card`, `ElevatedButton`, `ListView`, and `Icon` for creating the user interface.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this app, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Make sure you have the following installed:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Dart SDK](https://dart.dev/get-dart)
+- [Android Studio](https://developer.android.com/studio) or any preferred IDE
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/money_card_app.git
+
