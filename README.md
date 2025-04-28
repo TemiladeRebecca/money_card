@@ -12,6 +12,11 @@ The **Money Card App** is a Flutter-based mobile application that displays user 
 ## Screenshots
 ![Money Card App Screenshot](assets/screenshots/image_1.jpg)
 
+## Demo
+
+👉 [Watch the app in action on Loom!](https://www.loom.com/share/9f12c7145da74737899f26208b743751)
+
+
 ## Technologies Used
 - **Flutter**: Used for building the cross-platform mobile app.
 - **Google Fonts**: Lato font style is used throughout the app to enhance the UI.
